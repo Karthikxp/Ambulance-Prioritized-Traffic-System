@@ -58,20 +58,17 @@ The primary goal of this project is to create an intelligent traffic management 
    ```bash
    git clone <repository-url>
    ```
-2. [Add any additional setup instructions]
+2. Or download the ZIP file
 
 ### Usage
 
-- [Provide instructions on how to use the system]
+- Run The Python code to detect the Ambulance and Siren
 
 ### Contributing
 
-- [Outline how others can contribute to the project]
+- Fork and use this project for fututre contribution
 
-### License
-
-- [Specify the license under which the project is distributed]
 
 ### Contact
 
-- [Provide contact information for further inquiries]
+- for further queries contact mail (karthik.manikandanmk@gmail.com)
