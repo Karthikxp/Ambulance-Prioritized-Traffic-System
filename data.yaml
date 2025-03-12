@@ -1,0 +1,8 @@
+path: /Users/lakshan/Documents/ambulance_detection_2/dataset/data
+train: train
+val: valid
+test: test
+
+nc: 1
+names: ['ambulance']
+

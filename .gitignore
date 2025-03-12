@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+*.db
+*.log
+*.mp4
+*.tflite
+*.model
